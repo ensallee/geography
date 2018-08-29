@@ -1,0 +1,12 @@
+.tile {
+  border: 1px solid black;
+  margin-top: -1px;
+  margin-left: -1px;
+  color: white;
+  background-color: $teal;
+  width: 150px;
+  height: 150px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}

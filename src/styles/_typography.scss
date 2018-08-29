@@ -1,0 +1,37 @@
+* {
+  font-family: Open Sans, sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.heading {
+  font-family: Montserrat, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 30px;
+  line-height: 36px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.heading--main {
+  font-size: 36px;
+  line-height: 42px;
+}
+
+.heading--small {
+  font-size: 24px;
+  line-height: 30px;
+}
+
+.copy {
+  text-align: center;
+}
+
+.vertical-align {
+  position: relative;
+  top: 50%;
+  margin: 0px;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
